@@ -338,7 +338,7 @@ SCSS stylesheet to use for HTML output. Defaults to built-in stylesheet
 for the particular Metanorma flavour.  Overriding is not recommended.
 
 `:htmlstylesheet-override:`::
-SCSS stylesheet to use for HTML output, in addition to the built-in stylesheet
+CSS stylesheet to use for HTML output, in addition to the built-in stylesheet
 for the particular Metanorma flavour, as an override [added in https://github.com/metanorma/isodoc/releases/tag/v1.6.0].
 
 `:htmlcoverpage:`::
@@ -372,7 +372,7 @@ Defaults to built-in template for the particular Metanorma flavour.
 Overriding is not recommended.
 
 `:wordstylesheet-override:`::
-SCSS stylesheet to use for Word output, in addition to the built-in stylesheet
+CSS stylesheet to use for Word output, in addition to the built-in stylesheet
 for the particular Metanorma flavour, as an override [added in https://github.com/metanorma/isodoc/releases/tag/v1.6.0].
 
 `:header:`::
